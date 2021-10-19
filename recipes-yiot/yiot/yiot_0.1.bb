@@ -7,8 +7,8 @@ LIC_FILES_CHKSUM = "file://LICENSE;md5=7e982f4ba24a610f601244121b1a1df8"
 
 DEPENDS += "qtbase"
 
-SRC_URI = "git://github.com/YIoT-team/yiot-apps.git;branch=develop;protocol=http"
-SRCREV = "26797db05d0f7f0e652d17aba8dca69917213faf"
+SRC_URI = "git://github.com/andr13/yiot-yocto-test.git;branch=develop;protocol=http"
+SRCREV = "1a0942318a2fb244c2a5a2ff086be7d0b7ea0deb"
 
 S = "${WORKDIR}/git"
 
